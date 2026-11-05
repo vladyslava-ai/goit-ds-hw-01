@@ -1,0 +1,8 @@
+
+.venv/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+goit-pycore-hw-08/
